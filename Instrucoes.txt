@@ -1,0 +1,15 @@
+-Explicar os conceitos de POA, vantagens e desvantanges.
+-Escolher uma das opções: AspectJ, AspectC++, AspectC;
+-Implementar um pequeno estudo de caso.
+-Conclusões.
+-Referências.
+
+Download Eclipse
+https://www.eclipse.org/downloads/
+
+Instalação AspectJ
+
+Help > Install New Software
+
+Em work with coloque http://download.eclipse.org/tools/ajdt/43/update
+e depois dê enter e selecione os pacotes.
